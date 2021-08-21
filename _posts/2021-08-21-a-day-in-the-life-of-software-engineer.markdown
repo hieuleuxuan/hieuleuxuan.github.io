@@ -2,7 +2,7 @@
 layout: post
 title:  "A day in the life of a Software Engineer"
 date:   2021-08-21 07:52:36 +7
-categories: "Career Stories"
+categories: "CareerStories"
 image: "../assets/thumbnailpost/softwareengineer.jpeg"
 ---
 I start working at `X Company` in June 2019, but then the `Covid-19` outbreak got worse the the  office had to shut down. I thought that this outbreak would slow down and things would start to get better within a few months, but I was wrong. `Covid-19` has definitely changed my life and everyone. Some companies have even allowed their employees to work from home forever.
