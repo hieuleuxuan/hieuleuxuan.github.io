@@ -10,7 +10,7 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Brian Matthews
+  # name: Brian Matthews
   tagline: A guy who sits code and fixes bugs from morning to night.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
@@ -25,14 +25,14 @@ plainwhite:
   # generate social links in footer
   social_links:
     # twitter: samarsault
-    github:  bugscreator
-    linkedIn: in/hieudev/
+    # github:  bugscreator
+    # linkedIn: in/hieudev/
     #dribbble: jekyll
     #flickr:   jekyll
     #instagram: jekyll
     #pinterest: jekyll
-    youtube: channel/UCaOEJghWZvNIFYvKs6nBfUQ
-    facebook: hieuleuxuan.beatrixsoftware
+    # youtube: channel/UCaOEJghWZvNIFYvKs6nBfUQ
+    # facebook: hieuleuxuan.beatrixsoftware
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll
