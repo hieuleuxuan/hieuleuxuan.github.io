@@ -1,4 +1,4 @@
-title: Bugs Creator
+title: Bugs Creator ツ
 author: hieuleuxuan
 email: hieuleuxuan@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -10,8 +10,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Hieu X. Leu
-  tagline: Bugs Creator ツ
+  name: Brian Matthews
+  tagline: A guy who sits code and fixes bugs from morning to night.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -25,7 +25,7 @@ plainwhite:
   # generate social links in footer
   social_links:
     # twitter: samarsault
-    github:  hieuleuxuan
+    github:  bugscreator
     linkedIn: in/hieudev/
     #dribbble: jekyll
     #flickr:   jekyll
