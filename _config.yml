@@ -1,8 +1,8 @@
-title: Bugs Creator ツ
+title: HieuDev
 author: hieuleuxuan
 email: hieuleuxuan@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Bugs Creator ツ
+  A guy who sits code and fixes bugs from morning to night ツ
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -10,8 +10,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  # name: Brian Matthews
-  tagline: A guy who sits code and fixes bugs from morning to night.
+  name: Hieu X. Leu
+  tagline: Hi, I am Hieu. A guy who sits code and fixes bugs from morning to night ツ
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -25,14 +25,14 @@ plainwhite:
   # generate social links in footer
   social_links:
     # twitter: samarsault
-    # github:  bugscreator
-    # linkedIn: in/hieudev/
+    github:  hieuleuxuan
+    linkedIn: in/hieudev/
     #dribbble: jekyll
     #flickr:   jekyll
     #instagram: jekyll
     #pinterest: jekyll
-    # youtube: channel/UCaOEJghWZvNIFYvKs6nBfUQ
-    # facebook: hieuleuxuan.beatrixsoftware
+    youtube: channel/UCaOEJghWZvNIFYvKs6nBfUQ
+    facebook: hieuleuxuan.beatrixsoftware
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll
