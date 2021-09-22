@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Tips and Tricks to Learn Programming Faster"
+date:   2021-09-21 07:56:12 +7
+categories: "Tips"
+image: "../assets/thumbnailpost/faster-programming.jpeg"
+---
+One of the common and basic questions among students or someone who wants to learn code is “How can I learn to code fast and make a career as a programmer?”. Whether you are a student, fresher or experienced person trying to switch your job in programming you will definitely try to find tips and tricks to learn programming quickly and effectively. The job of programmers is one of the high-paid jobs in the market and one of the coolest jobs people find to do. Learning to code and mastering it can take years for a beginner. Most people give up before they truly get started. In the beginning, we get very excited about the concept of learning to code, but later in most of cases students or beginners give up quickly because they find it difficult to continue, they get stuck and they face difficulty in finding the solution for a code. Learning to program isn’t an overnight journey but it’s also not as difficult as people think about it, all it just requires is dedication, passion, interest, and definitely patience. There are so many online and offline resources available to learn to code easily, quickly, and effectively. We will discuss some tips to learn programming effectively and faster.
+
+##  Fundamentals
+A common mistake that a student or beginner commit while learning programming is skipping the fundamentals or chapter 1 and directly jumping to the next chapter right away. To understand the advanced concepts of programming you need to be very clear about the fundamentals of programming. If you will be doing the same mistake then at some point, you will end up with lots of confusion and you will have to come back to your basics again. These fundamentals are Data Structures, variables, control structures, syntax, tools, or text editors. When you start doing programming pick one programming language, stick with it, and clear all the basics of programming first before going to the next level. Your overall time to learn coding will be definitely saved if you will follow this path.
+
+## Learn By Doing, Practicing and Not Just Reading
+A common mistake beginners do while learning programming is just reading a book or looking at the sample code on their desktop without practicing it. 
+It’s easy to read about the loops, variables, and getting all the things in your head but actual programming doesn’t work in this way. You really need to get your hands dirty in coding and keep practicing it regularly. When you start programming you face a lot of problems, you get stuck there, you will be asked to implement the code practically and find the solution for a specific problem and there you will scratch your head while implementing the code. 
+When you write the code, play with the code, change your code to see different results, optimize the code and try different solutions, your logical thinking ability get improves day by day and you eventually learn a lot of things that make you a better programmer. 
+When you start coding, practice the same code or sample again and again until or unless you don’t need to refer to the same book or resource from where you have learned. Also build your own project, participate in coding challenges, play coding related games, practice it at your own end every single day.
+
+## Code By Hand
+When you start programming as a beginner you will be thinking that why should I code by hand? (It’s a time-consuming process, I can’t run and check my code on paper and also if I actually need to implement something on my system then why should I use pen and paper.)
+One of the biggest reasons is the interviews. When you will apply for jobs in programming, most of the time the technical evaluation process will include code by hand. You will be asked to write code using pen and paper or you might have to use a whiteboard. 
+Coding by hand is something old-school technique but it actually involves a test for a programmer’s proficiency. Coding by hand can give you a clear understanding of syntax and algorithms, you make a deeper connection in your brain. 
+Learning programming this way will make your work easier and faster later.
+
+## Share, Teach, Discuss and Ask For Help
+One of the best ways to understand programming easily and quickly is teaching. Teaching to someone, sharing your knowledge, doing discussions with other programmers will make you a better programmer quickly. Teaching to someone is teaching to yourself too, so if you are able to teach to somebody that means you truly understand the concepts. It is the best habit to learn something in-depth and you will realize that you don’t need to come back on the same topic.
+You can also participate in open source projects, discuss your code with your co-programmers or contribute on Github, also you can take help from forum or discussion site. When you learn programming do not hesitate in asking for help. Beginners do this mistake and feel shy when they need to ask for help. It doesn’t matter if you ask silly questions and look stupid, it will help you in the long run and if you don’t do it you will be struggling in coding later. So it’s good to find a mentor or take help from fellow programmers to understand concepts easily and quickly. Your mentor or professional can guide you better because they have been already in your shoes before.
+
+## Use Online Resources
+There are plenty of online resources available paid or unpaid. You can take help from these online resources and start your programming journey. You can subscribe to youtube channels or try coding boot camps to learn programming quickly and effectively. GeeksforGeeks, Udemy, Coursera ... and plenty of resources available for guidance and to learn programming. 
+Also make a habit of reading programming related blogs, and taking help from Stackoverflow, Reddit’s “learn programming” subreddit like site or online community.
+
+## Learn to Use Debugger
+Making mistakes in coding is very common and it’s completely acceptable in programming. You will find a lot of errors in your code at the beginning so it’s good to use debuggers to find out errors, impacts on your result and check where you have made the mistake. You will save a lot of time using a debugger or a tool to fix the errors in your code. If you are good at debugging, it will be easier to learn to program. So learn to use some good debugging techniques or use tools to check your piece of code.
+
+In the end, the last tip is not to quit when you start your journey in programming. You might be thinking in the middle that you are not smart enough to code but keep in mind that in order to think like a coder it takes some time and patience but to learn it quickly, you just need to follow the right path and be consistent. Follow everything step-by-step, make your fundamentals clear first, keep practicing it and once you are done with basics take the challenges and participate in competitive programming on different sites to get better at it, to build your logical ability, and to think like a coder. You will find yourself later how good a coder you have become by practicing it each and every single day.
